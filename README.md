@@ -1,7 +1,8 @@
 ### Hi there 🤠🤠
 
- 🔭 I’m currently a student, working to understand code and its capabilities
- 📫 How to reach me: kec22@fsu.edu
+-  🔭 I’m currently a student, working to understand code and its capabilities
+
+-  📫 How to reach me: kec22@fsu.edu
 <!--
 **katecasey45/katecasey45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
